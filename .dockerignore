@@ -1,0 +1,9 @@
+**
+!Dockerfile
+!requirements.txt
+!app.py
+!catalog.py
+!static/
+!static/**
+!templates/
+!templates/**
